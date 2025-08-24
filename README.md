@@ -58,5 +58,5 @@ npm run dev   # or npm start
 
 🌍 Live Demo
 
-👉 https://github.com/KritikaArora25/Ochi_website
+👉 https://ochiclonedd.netlify.app/
 
