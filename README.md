@@ -30,3 +30,33 @@ Vite / Create React App / Next.js (whichever you used – replace here)
 ![alt text](image-1.png)
 ![alt text](image-2.png)
 ![alt text](image-3.png)
+
+
+📂 Project Structure
+
+ochi/
+ ┣ 📂 src/
+ ┃ ┣ 📂 components/
+ ┃ ┣ 📂 pages/
+ ┃ ┣ App.jsx
+ ┃ ┣ index.css
+ ┃ ┗ main.jsx
+ ┣ package.json
+ ┣ tailwind.config.js
+ ┗ README.md
+
+ ⚡ Installation & Setup
+
+Clone the repository and install dependencies:
+
+```bash
+git clone https://github.com/your-username/ochi-clone.git
+cd ochi-clone
+npm install
+npm run dev   # or npm start
+```
+
+🌍 Live Demo
+
+👉 
+
