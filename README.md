@@ -35,15 +35,15 @@ Vite / Create React App / Next.js (whichever you used – replace here)
 📂 Project Structure
 
 ochi/
- ┣ 📂 src/
- ┃ ┣ 📂 components/
- ┃ ┣ 📂 pages/
- ┃ ┣ App.jsx
- ┃ ┣ index.css
- ┃ ┗ main.jsx
- ┣ package.json
- ┣ tailwind.config.js
- ┗ README.md
+ ┣ 📂 src/<br/>
+ ┃ ┣ 📂 components/<br/>
+ ┃ ┣ 📂 pages/<br/>
+ ┃ ┣ App.jsx<br/>
+ ┃ ┣ index.css<br/>
+ ┃ ┗ main.jsx<br/>
+ ┣ package.json<br/>
+ ┣ tailwind.config.js<br/>
+ ┗ README.md<br/>
 
  ⚡ Installation & Setup
 
