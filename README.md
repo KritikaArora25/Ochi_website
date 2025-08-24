@@ -34,7 +34,7 @@ Vite / Create React App / Next.js (whichever you used – replace here)
 
 📂 Project Structure
 
-ochi/
+ochi/ <br/>
  ┣ 📂 src/<br/>
  ┃ ┣ 📂 components/<br/>
  ┃ ┣ 📂 pages/<br/>
